@@ -19,9 +19,6 @@ Before you begin, ensure you have the following software installed on your compu
    ```bash
  https://github.com/om-666/Chat.git
    ```
-
-   
-
 2. Navigate to the project directory:
 
    ```bash
