@@ -17,7 +17,7 @@ Before you begin, ensure you have the following software installed on your compu
 1. Clone the project repository to your local machine using Git. Open your terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/yourusername/ChatApp.git
+ https://github.com/om-666/Chat.git
    ```
 
    
